@@ -32,21 +32,10 @@ LearnHub is a full-stack course-based learning platform built using **React**, *
 - **Database:** MongoDB (Atlas)
 - **Certificate Generator:** PDFKit (Node.js)
 
----
-
-## 📸 Screenshots
-
-> _Screenshots are placed inside the `/screenshots` folder in the repo._
-
-- `landing-page.png`
-- `teacher-dashboard.png`
-- `student-dashboard.png`
-- `admin-dashboard.png`
 
 ---
 
 ## 📄 Project Report
 
 [📥 Click here to view the LearnHub Project Report (PDF)](docs/learnhub.pdf)
-
 
