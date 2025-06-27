@@ -53,19 +53,19 @@ LearnHub is a full-stack course-based learning platform built using **React**, *
 
 
 ### 🏠 Landing Page
-![Landing Page](screenshots/landing.png)
+![Landing Page](screenshots/landingpage.png)
 
 ### 📝 Register Page
-![Register Page](screenshots/register.png)
+![Register Page](screenshots/registerpage.png)
 
 ### 🔐 Login Page
-![Login Page](screenshots/login.png)
+![Login Page](screenshots/loginpage.png)
 
 ### 👩‍💼 Admin Dashboard
-![Admin Dashboard](screenshots/admin-dashboard.png)
+![Admin Dashboard](screenshots/admin.png)
 
 ### 🧑‍🏫 Teacher Dashboard
-![Teacher Dashboard](screenshots/teacher-dashboard.png)
+![Teacher Dashboard](screenshots/teacher.png)
 
 ### 👨‍🎓 Student Dashboard
-![Student Dashboard](screenshots/student-dashboard.png)
+![Student Dashboard](screenshots/student.png)
