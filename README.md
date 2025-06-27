@@ -43,10 +43,8 @@ LearnHub is a full-stack course-based learning platform built using **React**, *
 - `student-dashboard.png`
 - `admin-dashboard.png`
 
-
+---
 
 ## 📄 Project Report
 
 [📥 Click here to view the LearnHub Project Report (PDF)](./docs/learnhub.pdf)
-
-

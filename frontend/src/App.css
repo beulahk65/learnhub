@@ -1,0 +1,68 @@
+/* App.css - Global Styles */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Import Google Font in index.html: 
+<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700&display=swap" rel="stylesheet">
+*/
+
+body {
+  @apply bg-gray-50 text-gray-800;
+  margin: 0;
+  font-family: 'Poppins', sans-serif;
+}
+
+h1, h2, h3, h4, h5 {
+  @apply text-gray-900;
+}
+
+.container {
+  @apply max-w-6xl mx-auto px-8 py-6;
+}
+
+@media (max-width: 768px) {
+  .container {
+    @apply px-4 py-4;
+  }
+}
+
+.dashboard-card {
+  @apply bg-white rounded-xl p-6 mb-6 shadow-md hover:shadow-lg transition-transform;
+}
+
+.dashboard-card:hover {
+  transform: scale(1.01);
+}
+
+.button-primary {
+  @apply bg-blue-600 text-white px-4 py-2 rounded-md cursor-pointer transition-colors;
+}
+
+.button-primary:hover {
+  @apply bg-blue-700;
+}
+
+.section-title {
+  @apply text-xl font-semibold mb-4;
+}
+
+.course-list {
+  @apply list-none p-0;
+}
+
+.course-list li {
+  @apply mb-4 bg-blue-50 p-4 rounded-md border-l-4 border-blue-500;
+}
+
+.course-progress {
+  @apply font-bold text-green-600 mt-2;
+}
+
+.error-message {
+  @apply text-red-600 font-semibold mt-4;
+}
+
+.success-message {
+  @apply text-green-600 font-semibold mt-4;
+}
